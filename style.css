@@ -677,17 +677,6 @@ img {
       left: 20px;
       -webkit-transform: translateX(0%);
       transform: translateX(0%); } }
-.hero-area .owl-dot {
-  display: block;
-  width: 20px;
-  height: 20px;
-  background-color: #947054;
-  font-size: 12px;
-  color: #ffffff;
-  text-align: center;
-  margin-bottom: 5px; }
-  .hero-area .owl-dot.active {
-    background-color: #000000; }
 
 /* :: 10.0 Advanced Search Area */
 .form-control {
