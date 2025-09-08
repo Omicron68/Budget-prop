@@ -659,13 +659,6 @@ img {
       right: 30px; } }
 .hero-area:hover .owl-prev, .hero-area:hover .owl-next {
   opacity: 1; }
-.hero-area .owl-dots {
-  width: 1110px;
-  position: absolute;
-  bottom: 15px;
-  left: 50%;
-  -webkit-transform: translateX(-50%);
-  transform: translateX(-50%); }
   @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .hero-area .owl-dots {
       width: calc(100% - 6%);
